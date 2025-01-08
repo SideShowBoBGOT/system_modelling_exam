@@ -4,6 +4,9 @@
 Файлик з теорією:
 https://docs.google.com/document/d/1J9PgJ8gsCiIVRJ52qbz6Bxt3Ns267uXiiDWepDRU1OY/edit?usp=sharing
 
+Білети:
+https://drive.google.com/drive/folders/16UmGtUQWvLWb6Frh81y27bA4LrsqrENx?usp=sharing
+
 ## Workflow виконання білета
 1. Клонуєте репозиторій:
 ```bash
