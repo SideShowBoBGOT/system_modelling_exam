@@ -1,5 +1,9 @@
 # system_modelling_exam
 Репозиторій створено для підготовки до екзамену. Щоб додати вас в репозиторій пишіть у телеграм @sideshowbobgot, вам буде надіслано інвайт.
+
+Файлик з теорією:
+https://docs.google.com/document/d/1J9PgJ8gsCiIVRJ52qbz6Bxt3Ns267uXiiDWepDRU1OY/edit?usp=sharing
+
 ## Workflow виконання білета
 1. Клонуєте репозиторій:
 ```bash
